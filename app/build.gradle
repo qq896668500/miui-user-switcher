@@ -2,12 +2,12 @@ apply plugin: 'com.android.application'
 
 android {
     namespace 'com.example.miui.userswitcher'
-    compileSdk 35
+    compileSdk 34
 
     defaultConfig {
         applicationId 'com.example.miui.userswitcher'
         minSdk 26
-        targetSdk 35
+        targetSdk 34
         versionCode 1
         versionName '1.0'
     }
